@@ -13,7 +13,7 @@ I am a graduate student from [Shanghai Jiao Tong University](https://www.sjtu.ed
 ### Experience
 * 2016.9-2020.8: [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) Bachelor Degree
 * 2020.9-now [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) Master Degree
-* 2022.8-2022.12: Intern at [INTEL](https://www.intel.cn/) as a machine learning intern
+* 2022.8-2022.12: Intern at [INTEL](https://www.intel.cn/) as a machine learning intern research on Neural Architecture Search of GNN
 
 ### Research Interests
 My research interests include topics in machine learning and artificial intelligence.
