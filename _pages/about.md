@@ -14,7 +14,7 @@ Before joining TAMU, I was a graduate student from [Shanghai Jiao Tong Universit
 
 ### Experience
 * 2016.9-2020.8: [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) Bachelor Degree
-* 2020.9-now [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) Master Degree
+* 2020.9-2023.3 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) Master Degree
 * 2022.8-2022.12: Intern at [INTEL](https://www.intel.cn/) as a machine learning intern research on Neural Architecture Search of GNN
 * 2023.2-2023.7: Work at [MEITUAN](https://www.meituan.com/en-US/about-us) as recommendation engineer
 
