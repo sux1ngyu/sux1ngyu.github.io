@@ -1,0 +1,160 @@
+papers:
+- title: "Learning to Discover Regulatory Elements for Gene Expression Prediction"
+  authors: "<b>Xingyu Su*</b>, Haiyang Yu*, Degui Zhi, Shuiwang Ji"
+  venue: "International Conference on Learning Representations (<b>ICLR Oral<\/b>), 2025"
+  paper_pdf: "https://arxiv.org/abs/2502.13991"
+  img: "/assets/imgs/Seq2Exp.png"
+  selected: y
+  year: "2025"
+  
+
+- title: "Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design"
+  authors: "Masatoshi Uehara*, <b>Xingyu Su*</b>, Yulai Zhao, Xiner Li, Aviv Regev, Shuiwang Ji, Sergey Levine, Tommaso Biancalani"
+  venue: "International Conference on Machine Learning (<b>ICML</b>), 2025"
+  paper_pdf: "https://arxiv.org/abs/2502.14944"
+  img: "/assets/imgs/rerd.png"
+  selected: y
+  year: "2025"
+
+
+- title: "Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design"
+  authors: "<b>Xingyu Su*</b>, Xiner Li*, Masatoshi Uehara*, Sunwoo Kim, Yulai Zhao, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/abs/2507.00445"
+  img: "/assets/imgs/VIDD.pdf"
+  selected: y
+  year: "preprint"
+
+- title: "Dynamic Search for Inference-Time Alignment in Diffusion Models"
+  authors: "Xiner Li*, Masatoshi Uehara*, <b>Xingyu Su</b>, Gabriele Scalia, Tommaso Biancalani, Aviv Regev, Sergey Levine, Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/abs/2503.02039"
+  img: "/assets/imgs/ddes.png"
+  selected: y
+  year: "preprint"
+
+- title: "Language Models for Controllable DNA Sequence Design"
+  authors: "<b>Xingyu Su*</b>, Haiyang Yu*, Degui Zhi, Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/abs/2507.19523"
+  img: "/assets/imgs/atgc_gen.png"
+  selected: y
+  year: "preprint"
+
+# - title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
+#   authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
+#   venue: "Transactions on Machine Learning Research (<b>TMLR Featured</b>), 2024"
+#   paper_pdf: "https://arxiv.org/abs/2411.04219"
+#   img: "/assets/imgs/PACE.png"
+#   selected: y
+#   year: "2024"
+
+# - title: "NetInfoF Framework: Measuring and Exploiting Network Usable Information"
+#   authors: "Meng-Chieh Lee, <b>Haiyang Yu</b>, Jian Zhang, Vassilis N. Ioannidis, Xiang song, Soji Adeshina, Da Zheng, Christos Faloutsos"
+#   venue: "International Conference on Learning Representations (<b>ICLR Spotlight</b>), 2024"
+#   paper_pdf: "https://openreview.net/forum?id=KY8ZNcljVU"
+#   img: "/assets/imgs/NetInfoF.png"
+#   selected: y
+#   year: "2024"
+  
+# - title: "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules"
+#   authors: "<b>Haiyang Yu*</b>, Meng Liu*, Youzhi Luo, Alex Strasser, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji"
+#   venue: "Neural Information Processing Systems (<b>NeurIPS</b>), Track on Datasets and Benchmarks, 2023"
+#   paper_pdf: "https://arxiv.org/abs/2306.09549"
+#   code: "https://github.com/divelab/AIRS/tree/main/OpenDFT/QHBench"
+#   code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"
+#   img: "/assets/imgs/QH9.png"
+#   selected: y
+#   year: "2023"
+  
+# - title: "Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian"
+#   authors: "<b>Haiyang Yu</b>, Zhao Xu, Xiaofeng Qian**, Xiaoning Qian**, Shuiwang Ji**"
+#   venue: "International Conference on Machine Learning (<b>ICML</b>), 2023"
+#   paper_pdf: "https://arxiv.org/abs/2306.04922"
+#   img: "/assets/imgs/QHNet.png"
+#   code: "https://github.com/divelab/AIRS/tree/main/OpenDFT/QHNet"
+#   selected: y
+#   year: "2023"
+
+# - title: "Explainability in graph neural networks: A taxonomic survey"
+#   authors: "Hao Yuan, <b>Haiyang Yu</b>, Shurui Gui, Shuiwang Ji"
+#   venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2022"
+#   paper_pdf: "https://arxiv.org/abs/2012.15445"
+#   img: "/assets/imgs/taxonomy.jpg"
+#   code: "https://github.com/divelab/DIG/tree/dig-stable/benchmarks/xgraph"
+#   selected: y
+#   year: "2022"
+    
+# - title: "Frontiers of Graph Neural Networks with DIG"
+#   authors: "Shuiwang Ji*, Meng Liu*, Yi Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Zhao Xu*, <b>Haiyang Yu*</b>"
+#   venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2022"
+#   paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3534678.3542624"
+#   code: "https://github.com/divelab/DIG/tree/dig-stable/tutorials/KDD2022"
+#   img: "/assets/imgs/DIG-overview-final.jpg"
+#   selected: y
+#   slides: "https://drive.google.com/file/d/1yk8Y1SkwpuxGbBVx5cKgI2J7KJ0ZMqAd/view"
+#   video: "https://www.youtube.com/watch?app=desktop&v=iJhE4TbtQD0"
+#   note: "<b style='color:red !important;'>Hands-on Tutorial</b>"
+#   year: "2022"
+    
+# - title: "GraphFM: Improving Large-Scale GNN Training via Feature Momentum"
+#   venue: "International Conference on Machine Learning (<b>ICML</b>), 2022"    
+#   authors: "<b>Haiyang Yu*</b>, Limei Wang*, Bokun Wang*, Meng Liu, Shuiwang Ji"
+#   literature_collection: "https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs"
+#   literature_collection_star: "https://img.shields.io/github/stars/oceanusity/awesome-gnns-on-large-scale-graphs?style=social"
+#   paper_pdf: "https://arxiv.org/abs/2206.07161"
+#   img: "/assets/imgs/GraphFM-OB.png"
+#   selected: y
+#   year: "2022"
+
+# - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
+#   authors: "Meng Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, <b>Haiyang Yu*</b>, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
+#   venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
+#   paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
+#   code: "https://github.com/divelab/DIG"
+#   code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
+#   documentation: "https://diveintographs.readthedocs.io/en/latest/"
+#   note: "<b style='color:red !important;'><a href='https://join.slack.com/t/dive-into-graphs/shared_invite/zt-1i9kn731c-RhLA1zcEGHXbIToxdVqo0g'>Join the DIG slack community!</a></b>"
+#   img: "/assets/imgs/DIG-logo.jpg"
+#   selected: y
+#   year: "2021"
+
+
+# - title: "On explainability of graph neural networks via subgraph explorations"
+#   venue: "International Conference on Machine Learning (<b>ICML</b>), 2021" 
+#   authors: "Hao Yuan, <b>Haiyang Yu</b>, Jie Wang, Kang Li, Shuiwang Ji"
+#   paper_pdf: "https://arxiv.org/abs/2102.05152"
+#   img: "/assets/imgs/subgraphx.png"
+#   code: "https://github.com/divelab/DIG/tree/main/dig/xgraph/SubgraphX"
+#   selected: y
+#   year: "2021"
+
+
+# - title: "Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems"
+#   authors: "Xuan Zhang*, Limei Wang*, Jacob Helwig*, Youzhi Luo*, Cong Fu*, Yaochen Xie*, Meng Liu, Yuchao Lin, Zhao Xu, Keqiang Yan, Keir Adams, Maurice Weiler, Xiner Li, Tianfan Fu, Yucheng Wang, <b>Haiyang Yu</b>, YuQing Xie, Xiang Fu, Alex Strasser, Shenglong Xu, Yi Liu, Yuanqi Du, Alexandra Saxton, Hongyi Ling, Hannah Lawrence, Hannes Stärk, Shurui Gui, Carl Edwards, Nicholas Gao, Adriana Ladera, Tailin Wu, Elyssa F. Hofgard, Aria Mansouri Tehrani, Rui Wang, Ameya Daigavane, Montgomery Bohde, Jerry Kurtin, Qian Huang, Tuong Phung, Minkai Xu, Chaitanya K. Joshi, Simon V. Mathis, Kamyar Azizzadenesheli, Ada Fang, Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, Shuiwang Ji"
+#   paper_pdf: "https://arxiv.org/pdf/2307.08423.pdf"
+#   code: "https://github.com/divelab/AIRS"
+#   code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"
+#   img: "/assets/imgs/AIRS_overview.png"
+#   selected: y
+#   year: "preprint"
+  
+
+# - title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
+#   venue: "Transactions on Machine Learning Research (TMLR), 2024"
+#   authors: "Meng Liu, <b>Haiyang Yu</b>, and Shuiwang Ji"
+#   paper_pdf: "https://arxiv.org/abs/2206.02059"
+#   literature_collection: "https://github.com/mengliu1998/awesome-expressive-gnn"
+#   literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-expressive-gnn?style=social"
+#   img: "/assets/imgs/NC-GNN.png"
+#   selected: y
+#   year: "2024"
+
+
+
+    
+
+    
+
+    
+    
+    
+
+

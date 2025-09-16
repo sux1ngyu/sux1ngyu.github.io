@@ -1,0 +1,29 @@
+experiences:
+- place: "Texas A&M University"
+  time: "Sep 2023 - now"
+  title: "Ph.D. in Computer Science"
+  subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a> <br/> Computer Science & Engineering"
+  category: "school"
+
+- place: "Meituan"
+  time: "Feb 2023 - July 2023"
+  title: "Recommendation Algorithm Engineer"
+  category: "work"
+
+- place: "Shanghai Jiao Tong University"
+  time: "Sep 2020 - Feb 2023"
+  title: "M.S. in Computer Science"
+  subtitle: "Advisor: <a href='https://shen-yy.github.io/'>Prof. Yanyan Shen</a> <br/> Computer Science & Engineering"
+  category: "school"
+
+- place: "Intel"
+  time: "Aug 2022 - Dec 2022"
+  title: "Machine Learning Engineer Intern"
+  category: "work"
+
+
+- place: "Shanghai Jiao Tong University"
+  time: "Sep 2016 - Aug 2020"
+  title: "B.E. Student"
+  category: "school"
+  
