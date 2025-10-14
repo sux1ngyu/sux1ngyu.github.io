@@ -38,6 +38,13 @@ papers:
   selected: y
   year: "preprint"
 
+- title: "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics"
+  authors: "Lianhao Zhou, Hongyi Ling, Cong Fu, Yepeng Huang, Michael Sun, Wendi Yu, Xiaoxuan Wang, Xiner Li, <b>Xingyu Su</b>, Junkai Zhang, Xiusi Chen, Chenxing Liang, Xiaofeng Qian, Heng Ji, Wei Wang, Marinka Zitnik, Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/pdf/2510.09901"
+  img: "/assets/imgs/AgentOrchestration.png"
+  selected: y
+  year: "preprint"
+
 # - title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
 #   authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
 #   venue: "Transactions on Machine Learning Research (<b>TMLR Featured</b>), 2024"
