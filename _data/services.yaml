@@ -1,4 +1,7 @@
 reviewers:
+- venue: "International Conference on Learning Representations (<b>ICLR</b>)"
+  year: "2026"
+
 - venue: "Neural Information Processing Systems (<b>NeurIPS</b>)"
   year: "2025"
 
