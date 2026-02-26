@@ -27,7 +27,7 @@ papers:
   year: "2026"
 
 - title: "Generative Artificial Intelligence for Biology: Toward Unifying Models, Algorithms, and Modalities"
-  authors: "Shuiwang Ji, <b>Xingyu Su</b>, Xiner Li, Youzhi Luo, Meng Liu, Xuan Zhang, Yuchao Lin, Zhao Xu, Yaochen Xie"
+  authors: "Xiner Li*, <b>Xingyu Su*</b>, Yuchao Lin, Chenyu Wang, Yijia Xiao, Tianyu Liu, Chi Han, Michael Sun, Montgomery Bohde, Anna Hart, Wendi Yu, Masatoshi Uehara, Gabriele Scalia, Xiao Luo, Carl Edwards, Wengong Jin, Jianwen Xie, Ehsan Hajiramezanali, Edward De Brouwer, Qing Sun, Byung-Jun Yoon, Xiaoning Qian, Marinka Zitnik, Heng Ji, Hongyu Zhao, Wei Wang, Shuiwang Ji"
   paper_pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002066/v2"
   img: "/assets/imgs/bio_survey.png"
   selected: y
@@ -51,7 +51,7 @@ papers:
   year: "preprint"
 
 - title: "Language Models for Controllable DNA Sequence Design"
-  authors: "<b>Xingyu Su*</b>, Haiyang Yu*, Degui Zhi, Shuiwang Ji"
+  authors: "<b>Xingyu Su</b>, Xiner Li, Yuchao Lin, Ziqian Xie, Degui Zhi, Shuiwang Ji"
   venue: "Transactions on Machine Learning Research (<b>TMLR</b>), 2025"
   paper_pdf: "https://arxiv.org/abs/2507.19523"
   code: "https://github.com/divelab/AIRS/tree/main/OpenBio/ATGC_Gen"
