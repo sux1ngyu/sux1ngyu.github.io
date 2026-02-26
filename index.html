@@ -42,6 +42,96 @@ title: Home
   <h4><b>Publications </b> [<a href="{{ site.data.main_info.googlescholar }}" target="_blank">Google Scholar</a>]</h4>
   * indicates equal contribution. </p>
 
+      <h5><b>2026</b></h5>
+    {% for paper in site.data.publications.papers %}
+    {% if paper.year == "2026" %}
+        <div class="paper">
+          <div class="row">
+            <div class="four columns">
+              <div class="figure">
+                <img src='{{ site.baseurl }}{{ paper.img }}' width="100%">
+              </div>
+            </div>
+            <div class="eight columns">
+                <p class="title"><b>{{ paper.title }}</b></p>
+                <p>{{ paper.authors }}</p>
+                <p><i>{{ paper.venue }}</i></p>
+                {% if paper.note %}
+                    <p>{{ paper.note }}</p>
+                {% endif %}
+                 <div class="paper-buttons">
+                  {% if paper.preprint %}
+                    <a class="button" href="{{ paper.preprint | prepend: site.baseurl }}" target="_blank">Preprint</a>
+                  {% endif %}
+
+                  {% if paper.paper_pdf %}
+                    <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+                  {% endif %}
+
+
+                  {% if paper.code %}
+                    <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
+                  {% endif %}
+
+                  {% if paper.code_star %}
+                    <img src='{{ site.baseurl }}{{ paper.code_star }}' height="20%" >
+                  {% endif %}
+
+                  {% if paper.documentation %}
+                    <a class="button" href="{{ paper.documentation | prepend: site.baseurl }}" target="_blank">Documentation</a>
+                  {% endif %}
+
+                  {% if paper.slides %}
+                    <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+                  {% endif %}
+
+                  {% if paper.poster %}
+                    <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+                  {% endif %}
+
+                  {% if paper.supplement %}
+                    <a class="button" href="{{ paper.supplement | prepend: site.baseurl }}" target="_blank">Supplement</a>
+                  {% endif %}
+
+                  {% if paper.UKSPNg %}
+                    <a class="button" href="{{ paper.UKSPNg | prepend: site.baseurl }}" target="_blank">UKSP Nugget</a>
+                  {% endif %}
+
+                  {% if paper.blogpost %}
+                    <a class="button" href="{{ paper.blogpost | prepend: site.baseurl }}" target="_blank">Blog post</a>
+                  {% endif %}
+
+                  {% if paper.pressrel %}
+                    <a class="button" href="{{ paper.pressrel | prepend: site.baseurl }}" target="_blank">Press Coverage</a>
+                  {% endif %}
+
+                  {% if paper.video %}
+                    <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+                  {% endif %}
+
+                  {% if paper.notebook %}
+                    <a class="button" href="{{ paper.notebook }}" target="_blank">Python Notebook</a>
+                  {% endif %}
+
+                  {% if paper.data %}
+                    <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+                  {% endif %}
+
+                  {% if paper.literature_collection %}
+                    <a class="button" href="{{ paper.literature_collection }}" target="_blank">Paper collection</a>
+                  {% endif %}
+
+                  {% if paper.literature_collection_star %}
+                    <img src='{{ site.baseurl }}{{ paper.literature_collection_star }}' height="20%" >
+                  {% endif %}
+
+
+                </div>
+            </div>
+          </div>
+        </div>
+    {% endif %}
+    {% endfor %}
 
       <h5><b>2025</b></h5>
     {% for paper in site.data.publications.papers %}
