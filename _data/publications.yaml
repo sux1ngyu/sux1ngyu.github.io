@@ -19,17 +19,17 @@ papers:
   year: "2025"
 
 - title: "A Joint Diffusion Model with Pre-Trained Priors for RNA Sequence–Structure Co-Design"
-  authors: "<b>Xingyu Su</b>, Yuchao Lin, Ziqian Xie, Xiner Li, Degui Zhi, Shuiwang Ji"
-  venue: "Transactions on Machine Learning Research (<b>TMLR</b>), 2025"
+  authors: "Xiner Li, Masatoshi Uehara, <b>Xingyu Su</b>, Gabriele Scalia, Shuiwang Ji"
+  venue: "International Conference on Learning Representations (<b>ICLR</b>), 2026"
   paper_pdf: "https://openreview.net/forum?id=cpc63YrVWN"
-  img: "/assets/imgs/rna_codesign.pdf"
+  img: "/assets/imgs/rna_codesign.png"
   selected: y
-  year: "2025"
+  year: "2026"
 
 - title: "Generative Artificial Intelligence for Biology: Toward Unifying Models, Algorithms, and Modalities"
   authors: "Shuiwang Ji, <b>Xingyu Su</b>, Xiner Li, Youzhi Luo, Meng Liu, Xuan Zhang, Yuchao Lin, Zhao Xu, Yaochen Xie"
   paper_pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002066/v2"
-  img: "/assets/imgs/bio_survey.pdf"
+  img: "/assets/imgs/bio_survey.png"
   selected: y
   year: "preprint"
 
@@ -38,7 +38,7 @@ papers:
   venue: "International Conference on Learning Representations (<b>ICLR</b>), 2026"
   paper_pdf: "https://arxiv.org/abs/2507.00445"
   code: "https://github.com/divelab/VIDD"
-  documentation: "https://divelab.github.io/VIDD/"
+  page: "https://divelab.github.io/VIDD/"
   img: "/assets/imgs/VIDD.png"
   selected: y
   year: "2026"
