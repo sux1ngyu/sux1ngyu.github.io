@@ -5,6 +5,11 @@ experiences:
   subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a> <br/> Computer Science & Engineering"
   category: "school"
 
+- place: "Amazon"
+  time: "May 2026 - Aug 2026"
+  title: "Applied Scientist Intern"
+  category: "work"
+
 - place: "Meituan"
   time: "Feb 2023 - July 2023"
   title: "Recommendation Algorithm Engineer"
