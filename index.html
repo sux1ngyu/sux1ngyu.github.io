@@ -6,17 +6,15 @@ title: Home
 <div class="docs-section" id="bio">
   <h4><b>Bio</b></h4>
   <p>
-    I am currently a 3th-year Ph.D. student in the Department of Computer Science & Engineering, 
+    I am currently a 4th-year Ph.D. student in the Department of Computer Science & Engineering, 
     Texas A&M University. My advisor is <a href="http://people.tamu.edu/~sji/" target="_blank">Prof. Shuiwang Ji</a>,
     who leads the <a href="https://github.com/divelab/"> Data Integration, Visualization, and Exploration (DIVE) Laboratory </a>.  
     I obtained my Master’s and Bachelor’s degrees from Shanghai Jiao Tong University in 2023 and 2020, respectively.
-    Here is my <a href={{ "https://sux1ngyu.github.io/index.html#resume" | prepend: site.baseurl }} target="_blank">CV</a>.
   </p>
   
   
   <p>
-  My research focuses on generative modeling and optimization, with an emphasis on <b>discrete diffusion models</b>, <b>reinforcement learning methods</b>,
-  and <b>large language models</b>.
+  My research focuses on <b>LLM post-training</b>, <b>reinforcement learning</b>, and <b>AI for biology</b>.
   </p>
 </div>
 
@@ -220,96 +218,6 @@ title: Home
     {% endfor %}
   
 
-<h5><b>Preprint</b></h5>
-    {% for paper in site.data.publications.papers %}
-    {% if paper.year == "preprint" %}
-        <div class="paper">
-          <div class="row">
-            <div class="four columns">
-              <div class="figure">
-                <img src='{{ site.baseurl }}{{ paper.img }}' width="100%">
-              </div>
-            </div>
-            <div class="eight columns">
-                <p class="title"><b>{{ paper.title }}</b></p>
-                <p>{{ paper.authors }}</p>
-                <p><i>{{ paper.venue }}</i></p>
-                {% if paper.note %}
-                    <p>{{ paper.note }}</p>  
-                {% endif %}
-                 <div class="paper-buttons">
-                  {% if paper.preprint %}
-                    <a class="button" href="{{ paper.preprint | prepend: site.baseurl }}" target="_blank">Preprint</a>
-                  {% endif %}
-
-                  {% if paper.paper_pdf %}
-                    <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
-                  {% endif %}
-
-
-                  {% if paper.code %}
-                    <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
-                  {% endif %}
-                   
-                  {% if paper.code_star %}
-                    <img src='{{ site.baseurl }}{{ paper.code_star }}' height="20%" >
-                  {% endif %}
-                   
-                  {% if paper.page %}
-                    <a class="button" href="{{ paper.page | prepend: site.baseurl }}" target="_blank">Page</a>
-                  {% endif %}
-
-                  {% if paper.slides %}
-                    <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-                  {% endif %}
-
-                  {% if paper.poster %}
-                    <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-                  {% endif %}
-                   
-                  {% if paper.supplement %}
-                    <a class="button" href="{{ paper.supplement | prepend: site.baseurl }}" target="_blank">Supplement</a>
-                  {% endif %}
-
-                  {% if paper.UKSPNg %}
-                    <a class="button" href="{{ paper.UKSPNg | prepend: site.baseurl }}" target="_blank">UKSP Nugget</a>
-                  {% endif %}
-
-                  {% if paper.blogpost %}
-                    <a class="button" href="{{ paper.blogpost | prepend: site.baseurl }}" target="_blank">Blog post</a>
-                  {% endif %}
-
-                  {% if paper.pressrel %}
-                    <a class="button" href="{{ paper.pressrel | prepend: site.baseurl }}" target="_blank">Press Coverage</a>
-                  {% endif %}
-
-                  {% if paper.video %}
-                    <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-                  {% endif %}
-
-                  {% if paper.notebook %}
-                    <a class="button" href="{{ paper.notebook }}" target="_blank">Python Notebook</a>
-                  {% endif %}
-
-                  {% if paper.data %}
-                    <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
-                  {% endif %}
-
-                  {% if paper.literature_collection %}
-                    <a class="button" href="{{ paper.literature_collection }}" target="_blank">Paper collection</a>
-                  {% endif %}
-                   
-                  {% if paper.literature_collection_star %}
-                    <img src='{{ site.baseurl }}{{ paper.literature_collection_star }}' height="20%" >
-                  {% endif %}
-                   
-
-                </div>
-            </div>
-          </div>
-        </div>
-    {% endif %}
-    {% endfor %}
 
 
 </div>

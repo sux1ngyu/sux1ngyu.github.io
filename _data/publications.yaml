@@ -1,22 +1,21 @@
 papers:
-- title: "Learning to Discover Regulatory Elements for Gene Expression Prediction"
-  authors: "<b>Xingyu Su*</b>, Haiyang Yu*, Degui Zhi, Shuiwang Ji"
-  venue: "International Conference on Learning Representations (<b>ICLR Oral<\/b>), 2025"
-  paper_pdf: "https://arxiv.org/abs/2502.13991"
-  code: "https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp"
-  img: "/assets/imgs/Seq2Exp.png"
+- title: "From Self-Distillation to Self-Practice: Privileged Information for Multi-Turn Agents"
+  authors: "<b>Xingyu Su</b>, Abhishek Kumar, Qing Ping, Youzhi Luo, Jonathan Buck, Zach Zhang, Subramanian Chidambaram, Vinayak Arannil"
+  venue: "arXiv, 2026"
+  paper_pdf: "https://arxiv.org/abs/2609.29051"
+  img: "/assets/imgs/PSP.png"
   selected: y
-  year: "2025"
-  
+  year: "2026"
 
-- title: "Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design"
-  authors: "Masatoshi Uehara*, <b>Xingyu Su*</b>, Yulai Zhao, Xiner Li, Aviv Regev, Shuiwang Ji, Sergey Levine, Tommaso Biancalani"
-  venue: "International Conference on Machine Learning (<b>ICML</b>), 2025"
-  paper_pdf: "https://arxiv.org/abs/2502.14944"
-  code: "https://github.com/masa-ue/ProDifEvo-Refinement"
-  img: "/assets/imgs/rerd.png"
+- title: "Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation"
+  authors: "<b>Xingyu Su*</b>, Jacob Helwig*, Shubham Parashar*, Atharv Chagi, Lakshmi Jotsna, Degui Zhi, James Caverlee, Dileep Kalathil, Shuiwang Ji"
+  venue: "arXiv, 2026"
+  paper_pdf: "https://arxiv.org/pdf/2606.06712"
+  code: "https://github.com/divelab/OPDLM"
+  page: "https://opdlm.vercel.app/"
+  img: "/assets/imgs/OPDLM.png"
   selected: y
-  year: "2025"
+  year: "2026"
 
 - title: "A Joint Diffusion Model with Pre-Trained Priors for RNA Sequence–Structure Co-Design"
   authors: "Xiner Li, Masatoshi Uehara, <b>Xingyu Su</b>, Gabriele Scalia, Shuiwang Ji"
@@ -28,10 +27,19 @@ papers:
 
 - title: "Generative Artificial Intelligence for Biology: Toward Unifying Models, Algorithms, and Modalities"
   authors: "Xiner Li*, <b>Xingyu Su*</b>, Yuchao Lin, Chenyu Wang, Yijia Xiao, Tianyu Liu, Chi Han, Michael Sun, Montgomery Bohde, Anna Hart, Wendi Yu, Masatoshi Uehara, Gabriele Scalia, Xiao Luo, Carl Edwards, Wengong Jin, Jianwen Xie, Ehsan Hajiramezanali, Edward De Brouwer, Qing Sun, Byung-Jun Yoon, Xiaoning Qian, Marinka Zitnik, Heng Ji, Hongyu Zhao, Wei Wang, Shuiwang Ji"
+  venue: "ChemRxiv, 2026"
   paper_pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002066/v2"
   img: "/assets/imgs/bio_survey.png"
   selected: y
-  year: "preprint"
+  year: "2026"
+
+- title: "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics"
+  authors: "Lianhao Zhou, Hongyi Ling, Cong Fu, Yepeng Huang, Michael Sun, Wendi Yu, Xiaoxuan Wang, Xiner Li, <b>Xingyu Su</b>, Junkai Zhang, Xiusi Chen, Chenxing Liang, Xiaofeng Qian, Heng Ji, Wei Wang, Marinka Zitnik, Shuiwang Ji"
+  venue: "arXiv, 2025"
+  paper_pdf: "https://arxiv.org/pdf/2510.09901"
+  img: "/assets/imgs/AgentOrchestration.png"
+  selected: y
+  year: "2025"
 
 - title: "Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design"
   authors: "<b>Xingyu Su*</b>, Xiner Li*, Masatoshi Uehara*, Sunwoo Kim, Yulai Zhao, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji"
@@ -41,14 +49,34 @@ papers:
   page: "https://divelab.github.io/VIDD/"
   img: "/assets/imgs/VIDD.png"
   selected: y
-  year: "2026"
+  year: "2025"
 
 - title: "Dynamic Search for Inference-Time Alignment in Diffusion Models"
   authors: "Xiner Li*, Masatoshi Uehara*, <b>Xingyu Su</b>, Gabriele Scalia, Tommaso Biancalani, Aviv Regev, Sergey Levine, Shuiwang Ji"
+  venue: "arXiv, 2025"
   paper_pdf: "https://arxiv.org/abs/2503.02039"
   img: "/assets/imgs/ddes.png"
   selected: y
-  year: "preprint"
+  year: "2025"
+
+- title: "Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design"
+  authors: "Masatoshi Uehara*, <b>Xingyu Su*</b>, Yulai Zhao, Xiner Li, Aviv Regev, Shuiwang Ji, Sergey Levine, Tommaso Biancalani"
+  venue: "International Conference on Machine Learning (<b>ICML</b>), 2025"
+  paper_pdf: "https://arxiv.org/abs/2502.14944"
+  code: "https://github.com/masa-ue/ProDifEvo-Refinement"
+  img: "/assets/imgs/rerd.png"
+  selected: y
+  year: "2025"
+
+- title: "Learning to Discover Regulatory Elements for Gene Expression Prediction"
+  authors: "<b>Xingyu Su*</b>, Haiyang Yu*, Degui Zhi, Shuiwang Ji"
+  venue: "International Conference on Learning Representations (<b>ICLR Oral<\/b>), 2025"
+  paper_pdf: "https://arxiv.org/abs/2502.13991"
+  code: "https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp"
+  img: "/assets/imgs/Seq2Exp.png"
+  selected: y
+  year: "2025"
+  
 
 - title: "Language Models for Controllable DNA Sequence Design"
   authors: "<b>Xingyu Su</b>, Xiner Li, Yuchao Lin, Ziqian Xie, Degui Zhi, Shuiwang Ji"
@@ -58,13 +86,6 @@ papers:
   img: "/assets/imgs/atgc_gen.png"
   selected: y
   year: "2025"
-
-- title: "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics"
-  authors: "Lianhao Zhou, Hongyi Ling, Cong Fu, Yepeng Huang, Michael Sun, Wendi Yu, Xiaoxuan Wang, Xiner Li, <b>Xingyu Su</b>, Junkai Zhang, Xiusi Chen, Chenxing Liang, Xiaofeng Qian, Heng Ji, Wei Wang, Marinka Zitnik, Shuiwang Ji"
-  paper_pdf: "https://arxiv.org/pdf/2510.09901"
-  img: "/assets/imgs/AgentOrchestration.png"
-  selected: y
-  year: "preprint"
 
 # - title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
 #   authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
