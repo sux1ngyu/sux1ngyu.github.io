@@ -3,6 +3,7 @@ papers:
   authors: "<b>Xingyu Su</b>, Abhishek Kumar, Qing Ping, Youzhi Luo, Jonathan Buck, Zach Zhang, Subramanian Chidambaram, Vinayak Arannil"
   venue: "arXiv, 2026"
   paper_pdf: "https://arxiv.org/abs/2609.29051"
+  page: "https://sux1ngyu.github.io/PSP/"
   img: "/assets/imgs/PSP.png"
   selected: y
   year: "2026"
